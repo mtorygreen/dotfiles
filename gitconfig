@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tory.green@gmail.com
+	name = tory green
